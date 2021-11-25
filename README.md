@@ -2,13 +2,6 @@
 Some diamonds have been stolen. We have a huge dataset, containing characteristics and prices for 53930 of diamonds.   With the characteristics of the missing diamonds we want to estimate how  much the stolen diamonds are worth.
 The lapidarist problem
 
-This problem is for you to:
-
-Show your abilities in data loading, cleaning and descriptive analysis. Some rows contain errors. Extra points: clean these rows and include them in your analysis.
-
-Show your modeling abilities. Bonus points for testing your model’s error using a test set.
-
-
 The limousine comes to a full stop. As the driver gets out to open the door you take a deep breath and get inside. Inside the meeting room you find the Prime Minister, accompanied by a fat, tall man and a short, deform one with long ears and an even longer nose.
 
 Prime Minister: “Ah! You’re here! Great! Let me introduce my guests. This is Fidelious, Minister of Magic, and Krenk, the owner of the Gringotts Wizarding Bank.”
